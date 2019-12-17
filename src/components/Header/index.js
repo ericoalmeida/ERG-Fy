@@ -5,7 +5,7 @@ import { Container } from './styles';
 export default function Header() {
   return (
     <Container>
-      <h1>ERGFy</h1>
+      <h1>ergfy</h1>
     </Container>
   );
 }
