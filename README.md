@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ergfy" title="ergfy" src="https://i.ibb.co/jkp3CTs/Captura-de-tela-de-2019-12-17-08-42-00.png" width="150px" />
+  <img alt="ergfy" title="ergfy" src="https://i.ibb.co/jkp3CTs/Captura-de-tela-de-2019-12-17-08-42-00.png" width="600px" />
 </h1>
 
 <h3 align="center">
